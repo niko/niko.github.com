@@ -1,1 +1,8 @@
-h1. LG
+---
+layout: post
+title: lane_groove
+---
+
+h1. lane_groove
+
+At my current project we're running 10 or 11 services on 7 physical boxes. All of these services share some common configuration (MySQL server name, port, database, username, password? Redis server name, port, database? …) and each of these services also a bunch of individual configuration. At some point I decided that a new configuration file for each new service just doesn't cut it any more and the status of the current configuration files just seemed to prove that: It was a mess.
