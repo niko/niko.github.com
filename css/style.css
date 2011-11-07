@@ -66,9 +66,34 @@ td { vertical-align: top; }
    Author: 
    ========================================================================== */
 
+body{
+  margin:0;
+  padding:0;
+}
 
+a, a:visited{
+  text-decoration: none;
+  color: #00a;
+}
 
+header{
+  margin: 0 5em 5em 5em;
+  float: right;
+}
 
+header ul{
+  margin:1em;
+  padding:0;
+/*  list-style-type: none;*/
+}
+
+#main{
+  margin: 5em;
+}
+
+footer{
+  margin: 5em;
+}
 
 
 

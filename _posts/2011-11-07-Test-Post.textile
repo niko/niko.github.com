@@ -1,0 +1,8 @@
+---
+layout: post
+title: New blog
+---
+
+h1. New blog ahead
+
+Once again a new blog is born… must be no. 215'987… *today*.
